@@ -1,6 +1,17 @@
 // JavaScript Project 1
 
 
+//ANOTHA ONE
+
+//AND ANOTHA ONE - Parker
+
+// Ramon has edited this file
+
+//John edited this file
+
+//Whoops I did it again -Joe
+
+
 // Substitute console.log with c
 // Use controlled tell function instead?
 function c() {
